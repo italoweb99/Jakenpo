@@ -1,19 +1,11 @@
 # Jokenpo
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![Image](https://github.com/user-attachments/assets/eb8de137-5c23-49da-adc6-e440a320a93b)
 
-## Getting Started
+Esse app é o primeiro trabalho da disciplina de desenvolvimento mobile da Centro Universitário Municipal de Franca (Uni-FACEF), e consiste de um jogo de jokenpo em que o usuario pode jogar contra a maquina.
 
-A few resources to get you started if this is your first Flutter project:
+## Uso
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+Escolha uma das opções: pedra, papel ou tesoura. Espere o computador fazer a sua escolha, um texto será exibido mostrando se o usuario ganhou, perdeu ou empatou o jogo
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+![Jakenpo App](https://github.com/user-attachments/assets/cbf05fbf-1ffa-4ebb-b380-ed1969518749)
